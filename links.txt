@@ -1,0 +1,1 @@
+https://www.codepedia.org/ama/error-handling-in-rest-api-with-jersey/
