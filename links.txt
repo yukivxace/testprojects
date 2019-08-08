@@ -7,3 +7,4 @@ https://laracasts.com/discuss/channels/laravel/custom-class-for-external-api-cal
 
 THIS ONE
 https://www.minddevelopmentanddesign.com/blog/add-custom-api-authentication-to-laravel/
+https://itnext.io/laravel-the-power-of-authentication-part-3-d691224f3afb
