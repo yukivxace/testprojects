@@ -3,3 +3,7 @@ https://laracasts.com/discuss/channels/laravel/replacing-the-laravel-authenticat
 https://github.com/poupouxios/custom-api-auth
 https://stackoverflow.com/questions/33331421/custom-user-authentication-base-on-the-response-of-an-api-call/33419313#33419313
 https://laracasts.com/discuss/channels/laravel/custom-class-for-external-api-calls-where-to-put-it-inside-laravel-53?page=1
+
+
+THIS ONE
+https://www.minddevelopmentanddesign.com/blog/add-custom-api-authentication-to-laravel/
