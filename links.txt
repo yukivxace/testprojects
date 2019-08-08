@@ -1,1 +1,3 @@
-https://www.codepedia.org/ama/error-handling-in-rest-api-with-jersey/
+https://laravel-guide.readthedocs.io/en/latest/authentication/
+https://laracasts.com/discuss/channels/laravel/replacing-the-laravel-authentication-with-a-custom-authentication
+https://github.com/poupouxios/custom-api-auth
